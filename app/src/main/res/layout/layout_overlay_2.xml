@@ -6,7 +6,7 @@
     android:orientation="horizontal"
     android:filterTouchesWhenObscured="true">
 
-
+<!---->
     <!--이미지만 줌인/줌아웃 가능한 클래스 -->
 <!--    <com.konai.appmeter.driver.util.TouchExampleView-->
 <!--        android:layout_width="match_parent"-->
